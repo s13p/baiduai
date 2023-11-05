@@ -2870,7 +2870,7 @@ blockquote {
 }
 
 .play-teaser-cta:hover {
-    color: #ff912b;
+    color: #1071ff;
     transform: scale(1.04);
 }
 
@@ -2927,7 +2927,7 @@ blockquote {
 .orange-dot {
     width: 8px;
     height: 8px;
-    background-color: #ff912b;
+    background-color: #1071ff;
     border-radius: 4px;
     margin-right: 16px;
 }
@@ -3608,7 +3608,7 @@ blockquote {
     opacity: 1;
     filter: blur(10em);
     transform-style: preserve-3d;
-    background-color: #ff912b;
+    background-color: #1071ff;
     border-radius: 60em;
     position: absolute;
     top: auto;
@@ -4256,7 +4256,7 @@ blockquote {
 .animated-stroke {
     width: 0%;
     height: 1px;
-    background-color: #ff912b;
+    background-color: #1071ff;
     margin-bottom: -1px;
     position: absolute;
     top: auto;
@@ -4821,7 +4821,7 @@ blockquote {
 }
 
 .wg-selector-2.s2:hover {
-    color: #ff912b;
+    color: #1071ff;
 }
 
 .wg-selector-2.s1 {
@@ -4892,7 +4892,7 @@ blockquote {
 }
 
 .wg-selector-3-line-fill.f2 {
-    background-color: #ff912b;
+    background-color: #1071ff;
     position: absolute;
     top: 0%;
     bottom: auto;
@@ -4906,7 +4906,7 @@ blockquote {
 }
 
 .wg-selector3-text-lang1 {
-    color: #ff912b;
+    color: #1071ff;
     text-transform: uppercase;
     font-size: 12px;
 }
@@ -4924,7 +4924,7 @@ blockquote {
 }
 
 .error-message {
-    background-color: #ff912b;
+    background-color: #1071ff;
 }
 
 .div-block-2 {
@@ -5017,7 +5017,7 @@ blockquote {
 
 .error-message-2 {
     color: #fff;
-    background-color: #ff912b;
+    background-color: #1071ff;
 }
 
 .success-message-3 {
@@ -5025,7 +5025,7 @@ blockquote {
 }
 
 .error-message-3 {
-    background-color: #ff912b;
+    background-color: #1071ff;
 }
 
 .newsletter-mc-embed.hide {
@@ -5530,7 +5530,7 @@ blockquote {
     height: 100%;
     color: #f6f6f6;
     text-transform: uppercase;
-    background-color: #ff912b;
+    background-color: #1071ff;
     flex-direction: row;
     justify-content: center;
     align-items: center;
@@ -5712,7 +5712,7 @@ blockquote {
     width: 100%;
     height: 100%;
     background-color: #fff;
-    border-right: 1px solid #ff912b;
+    border-right: 1px solid #1071ff;
     border-radius: 4px;
     padding: 32px;
     position: relative;
@@ -5824,7 +5824,7 @@ blockquote {
 }
 
 .chain-action-title.is-orange {
-    color: #ff912b;
+    color: #1071ff;
 }
 
 .chaine-action-sub-item {
@@ -5910,7 +5910,7 @@ blockquote {
 }
 
 .footer-link:hover {
-    color: #ff912b;
+    color: #1071ff;
 }
 
 .social-element-wrapper {
@@ -8808,7 +8808,7 @@ blockquote {
         display: flex;
     }
     .chaine-action-item {
-        border-bottom: 1px solid #ff912b;
+        border-bottom: 1px solid #1071ff;
         border-right-width: 0;
         margin-bottom: 24px;
     }
