@@ -9301,7 +9301,10 @@ blockquote {
 }
 
 #w-node-c3655ef2-834d-44b6-97da-c158c0d4a1d3-8f161882 {
-    grid-area: 1 / 1 / 2 / 7;
+    display: block;
+    align-items: center;
+    width: 80vw;
+    padding: 20px;
 }
 
 #w-node-c3655ef2-834d-44b6-97da-c158c0d4a1d5-8f161882 {
